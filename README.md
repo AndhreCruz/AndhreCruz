@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 Software Developer & Computer Science Student from Chile.<br>🚀 Passionate about Full Stack Development, focused on building modern, scalable, and user-friendly web applications.<br>🌱 Constantly learning and improving my skills in backend, frontend, and cloud environments.</p>
+<p align="left">💻 Software Developer from Chile.<br>🚀 Passionate about Full Stack Development, focused on building modern, scalable, and user-friendly web applications.<br>🌱 Constantly learning and improving my skills in backend, frontend, and cloud environments.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 I’m currently studying Ingeniería en Informática at Duoc UC.<br>💡 I enjoy learning about web architectures, APIs, and cloud services.<br>⚙️ I love transforming ideas into functional digital products.</p>
+<p align="left">💡 I’m currently studying Computer Science at Duoc UC.<br>⚙️ I enjoy learning about web architectures, APIs, and cloud services.<br>🎯 My goal is to turn ideas into efficient and functional digital products.</p>
 
 ###
 
@@ -65,8 +65,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndhreCruz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=AndhreCruz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AndhreCruz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=AndhreCruz&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###

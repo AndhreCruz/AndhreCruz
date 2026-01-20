@@ -15,9 +15,9 @@
 ###
 
 <p align="left">
-Trabajo principalmente con Python y Java en el desarrollo de aplicaciones, utilizando frameworks como Spring Boot y Django.<br>
-Tengo experiencia con bases de datos SQL, control de versiones con Git y nociones de servicios cloud como AWS.<br>
-Me interesa comprender la lógica detrás de los sistemas, aplicar buenas prácticas y mejorar continuamente la calidad del código y las soluciones que desarrollo.
+🛠️ Desarrollo aplicaciones principalmente con <strong>Python</strong> y <strong>Java</strong>, utilizando frameworks como <strong>Spring Boot</strong> y <strong>Django</strong>.<br>
+🗄️ Tengo experiencia con <strong>bases de datos SQL</strong>, control de versiones con <strong>Git</strong> y nociones de <strong>servicios cloud</strong> como AWS.<br>
+🎯 Me interesa comprender la lógica detrás de los sistemas, aplicar <strong>buenas prácticas</strong> y mejorar continuamente la <strong>calidad del código</strong> y las soluciones que desarrollo.
 </p>
 
 ###

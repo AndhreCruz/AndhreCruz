@@ -1,20 +1,28 @@
-<h1 align="center">👋 Hi, I'm Andhre Cruz</h1>
+<h1 align="center">👋 Hola, soy Andhre Cruz</h1>
 
 ###
 
-<p align="left">💻 Software Developer from Chile.<br>🚀 Passionate about Full Stack Development, focused on building modern, scalable, and user-friendly web applications.<br>🌱 Constantly learning and improving my skills in backend, frontend, and cloud environments.</p>
+<p align="left">
+💻 Analista Programador Computacional y estudiante de Ingeniería en Informática en Duoc UC.<br>
+🚀 Enfocado en el desarrollo de software y aplicaciones web, con interés en crear soluciones claras, escalables y bien estructuradas.<br>
+🌱 En constante aprendizaje de tecnologías backend, frontend y entornos cloud.
+</p>
 
 ###
 
-<h2 align="left">🧠 About Me</h2>
+<h2 align="left">🧠 Sobre mí</h2>
 
 ###
 
-<p align="left">💡 I’m currently studying Computer Science at Duoc UC.<br>⚙️ I enjoy learning about web architectures, APIs, and cloud services.<br>🎯 My goal is to turn ideas into efficient and functional digital products.</p>
+<p align="left">
+Trabajo principalmente con Python y Java en el desarrollo de aplicaciones, utilizando frameworks como Spring Boot y Django.<br>
+Tengo experiencia con bases de datos SQL, control de versiones con Git y nociones de servicios cloud como AWS.<br>
+Me interesa comprender la lógica detrás de los sistemas, aplicar buenas prácticas y mejorar continuamente la calidad del código y las soluciones que desarrollo.
+</p>
 
 ###
 
-<h2 align="left">🧩 Tech Stack</h2>
+<h2 align="left">🧩 Tecnologías</h2>
 
 ###
 
@@ -62,7 +70,7 @@
 
 ###
 
-<h2 align="left">📊 GitHub Stats</h2>
+<h2 align="left">📊 Estadísticas de GitHub</h2>
 
 ###
 
@@ -73,7 +81,7 @@
 
 ###
 
-<h2 align="left">🌐 Connect with Me</h2>
+<h2 align="left">🌐 Conecta conmigo</h2>
 
 ###
 
